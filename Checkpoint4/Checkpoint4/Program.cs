@@ -11,6 +11,7 @@ namespace Checkpoint4
             Console.WriteLine("Trouble of vendetta");
             Console.WriteLine("Reflex Blood");
             Console.WriteLine("Battle of Jeopardy");
+            Console.WriteLine("Copyright Jennifer 2018");
         }
     }
 }
